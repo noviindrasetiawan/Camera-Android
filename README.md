@@ -1,4 +1,4 @@
-# Camera
+# Camera-Android
 
 [Petunjuk Penggunaan]
 
